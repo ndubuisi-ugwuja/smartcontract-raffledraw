@@ -51,7 +51,7 @@ The contract allows users to enter a lottery by paying an entrance fee, and afte
 1. Clone the repo (optional)
 
 ```
-   git clone https://github.com/astrohub-dev/smartcontract-raffledraw.git
+   git clone https://github.com/ndubuisi-ugwuja/smartcontract-raffledraw.git
    cd smartcontract-raffle
 ```
 
