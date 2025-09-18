@@ -7,6 +7,8 @@ The contract allows users to enter a lottery by paying an entrance fee, and afte
 
 [View contract on etherscan](https://sepolia.etherscan.io/address/0x84c726066C0907eA6c1E35D2a0fa1DcFD5AE3335)
 
+[Interact with the frontend](https://smartcontract-raffledraw.vercel.app/)
+
 ## ✨ Features
 
 - **Decentralized Randomness**: Secure winner selection powered by [Chainlink VRF v2.5](https://docs.chain.link/vrf/v2-5).

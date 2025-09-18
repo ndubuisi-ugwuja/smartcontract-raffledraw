@@ -19,8 +19,12 @@ const networkConfig = {
 };
 
 const developmentChains = ["hardhat", "localhost"];
+const frontEndContractsFile = "../nextjs-raffledraw-frontend/constants/contractAddresses.json";
+const frontEndAbiFile = "../nextjs-raffledraw-frontend/constants/abi.json";
 
 module.exports = {
     networkConfig,
     developmentChains,
+    frontEndContractsFile,
+    frontEndAbiFile,
 };
